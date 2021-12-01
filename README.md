@@ -24,32 +24,41 @@ Website tin tức về COVID19 là  trang web trang báo điện tử, được 
 I, Giới thiệu tổng quan
 1, Trang chính
 Trang chính là giao diện chính và quan trọng nhất của website tin tức. Trên trang chủ phần lớn thể hiện các tin tức nổi bật, những chuyên mục gồm có, hoặc các thông tin cơ bản liên quan đến trang báo
-(Cap màn hình trang chủ covid19)
+![image](https://user-images.githubusercontent.com/91113501/144209501-5ee98166-2a9d-44e4-bf40-e5cf30a45713.png)
 2, Tin tức nổi bật
 Ở đây sẽ hiển thị những tin tức nổi bật của từng cổng thông tin covid19  lượng quan tâm của độc giả, hoặc dựa trên mức độ quan trọng của nó trong tình hình hiện tại. 
-( cap màn hình tin nổi bật)
+![image](https://user-images.githubusercontent.com/91113501/144209681-54916894-a681-49ff-81b5-5abb04c67dd2.png)
 3, Thanh tìm kiếm 
 Người xem sẽ dễ dàng tìm thấy mục tin tức mình quan tâm nhờ thanh tìm kiếm. Để cải thiện hiệu quả tìm kiếm của người dùng, các thanh tìm kiếm cần có thêm tính năng tìm kiếm nâng cao, giúp rút ngắn thời gian lọc tìm kết quả của người dùng, dễ dàng tìm thấy tin tức cần tìm. 
+![image](https://user-images.githubusercontent.com/91113501/144209794-fc4e39a0-4ad4-4328-b51f-ebfc8c642a72.png)
 4, Liên hệ
 Liên hệ bao gồm thông tin cơ bản của trang báo như tên trang báo đầy đủ/ tên công ty/ tên tòa soạn, mã số thuế, số giấy phép đăng ký kinh doanh, số điện thoại, địa chỉ văn phòng, địa chỉ chi nhánh,…hoặc kèm một bản đồ thực tế minh hoạ vị trí  trên bản đồ. 
+![image](https://user-images.githubusercontent.com/91113501/144209821-b0320f65-f8f2-4970-b8c7-7ddbcdf9fcf0.png)
+![image](https://user-images.githubusercontent.com/91113501/144209969-55332259-ae8c-49d0-b380-c23774911da1.png)
 II, Giớithiệu chi tiết
 1, Trang chủ
 Trang chủ cũng chính là giao diện của website, giao diện của website được xây dựng theo dạng cổng thông tin điện tử vì vậy cung cấp đầy đủ các mục như tin tức - sự kiện, tư liệu lịch sử, hướng dẫn nghiệp vụ, lễ hội văn hóa.
-
-
+![image](https://user-images.githubusercontent.com/91113501/144210121-caa1df87-d291-4e32-8bcf-bbaaaf2d24fd.png)
 Ngoài ra trang chủ của website còn cung cấp các công văn, văn bản, quy định, thông tư để người xem dễ dàng theo dõi, cập nhật và thực hiện. 
-
 Giao diện website được thiết kế rõ ràng, đơn giản với hình ảnh đã qua chọn lọc thể hiện tính nghiêm túc, mô phạm. 
 2, Bản tin covid19
-(cap man hình bản tin)
+![image](https://user-images.githubusercontent.com/91113501/144210282-5cc925ed-ee27-4970-af35-9b2315102db4.png)
 3, Chỉ đạo chống dịch
+![image](https://user-images.githubusercontent.com/91113501/144210382-0d3198fc-d8f8-4092-a775-35df6bd1e953.png)
 4, Dự phòng- điều trị
+![image](https://user-images.githubusercontent.com/91113501/144210451-7cac171f-3285-43b2-a2de-3b74773758d9.png)
 5, Vacxin-tiêm chủng
+![image](https://user-images.githubusercontent.com/91113501/144210545-e04d9349-4712-4b56-9930-45296d72e1f5.png)
 6, Hoạt động địa phương
+![image](https://user-images.githubusercontent.com/91113501/144210662-e2719c6b-6a2f-47e2-8c94-0d49da799207.png)
 7, Hướng dẫn
+![image](https://user-images.githubusercontent.com/91113501/144210729-a8bab4b2-24b1-4192-af9c-61dc4ab10581.png)
 8, Tin tức
+![image](https://user-images.githubusercontent.com/91113501/144210775-973eacdf-d27e-4ccf-9416-8bf97a143d3e.png)
 9, Tình hình thế giới
+![image](https://user-images.githubusercontent.com/91113501/144210846-8fcf9ea6-af80-4cbe-8263-7f325ca49c66.png)
 10, Đăng bài
+![image](https://user-images.githubusercontent.com/91113501/144210929-9e313d03-a83d-41f8-bd99-1156819d3df4.png)
 III, Giớithiệu tính năng
 1, Quản lý admin
 Cho phép khách đăng ký, đăng nhập hệ thống để sử dụng với tư cách thành
@@ -74,7 +83,6 @@ trị.
 báo tại khu vực quản trị hệ thống.
 - Người quản trị có thể phản hồi thư liên hệ ngay tại website mà không cần mở hộp thư cá nhân
 - Tạo và quản lý các bộ phận hỗ trợ
- 4, Các tiện ích khác
  
  
 
