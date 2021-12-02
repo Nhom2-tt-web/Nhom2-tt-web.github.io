@@ -58,7 +58,11 @@ Giao diện website được thiết kế rõ ràng, đơn giản với hình �
 9, Tình hình thế giới
 ![image](https://user-images.githubusercontent.com/91113501/144210846-8fcf9ea6-af80-4cbe-8263-7f325ca49c66.png)
 10, Đăng bài
+![Ảnh chụp Màn hình 2021-12-02 lúc 07 25 58](https://user-images.githubusercontent.com/91113501/144335635-10166f61-44c8-4ae0-8e41-64f92dab2933.png)
+10.1 Trang quản lí đăng bài 
 ![image](https://user-images.githubusercontent.com/91113501/144210929-9e313d03-a83d-41f8-bd99-1156819d3df4.png)
+10.2. Trang quản lí số liệu 
+<img width="1679" alt="Ảnh chụp Màn hình 2021-12-02 lúc 07 27 51" src="https://user-images.githubusercontent.com/91113501/144335794-84bc6332-fd8a-45d5-8913-8740d8574583.png">
 III, Giớithiệu tính năng
 1, Quản lý admin
 Cho phép khách đăng ký, đăng nhập hệ thống để sử dụng với tư cách thành
